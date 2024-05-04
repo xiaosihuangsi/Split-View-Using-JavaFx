@@ -27,23 +27,25 @@ java --module-path "--check from javafx-sdk-21.0.2 % pwd---then paste to here" -
 ```
 
 ### Demo
+
+
 <!-- Image 1 -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xiaosihuangsi/Split-View-Using-JavaFx/main/RunningResult_1.png?token=GHSAT0AAAAAACRFU4YHLJGZPVSZ3T22N3SWZRV3BEQ" alt="Image 1" width="600" />
+  <img src="https://github.com/xiaosihuangsi/Split-View-Using-JavaFx/blob/main/RunningResult_1.png" alt="Image 1" width="600" />
   <br />
   <em>Image 1</em>
 </p>
 
 <!-- Image 2 -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xiaosihuangsi/Split-View-Using-JavaFx/main/RunningResult_2.png?token=GHSAT0AAAAAACRFU4YHWNWADJOFOXBLRBI2ZRV22MA" alt="Image 2" width="600" />
+  <img src="https://github.com/xiaosihuangsi/Split-View-Using-JavaFx/blob/main/RunningResult_2.png" alt="Image 2" width="600" />
   <br />
   <em>Image 2</em>
 </p>
 
 <!-- Image 3 -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xiaosihuangsi/Split-View-Using-JavaFx/main/RunningResult_3.png?token=GHSAT0AAAAAACRFU4YGIQOJSELTW54MLHSUZRV22YQ" alt="Image 3" width="600" />
+  <img src="https://github.com/xiaosihuangsi/Split-View-Using-JavaFx/blob/main/RunningResult_3.png" alt="Image 3" width="600" />
   <br />
   <em>Image 3</em>
 </p>
