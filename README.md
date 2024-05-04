@@ -29,7 +29,7 @@ java --module-path "--check from javafx-sdk-21.0.2 % pwd---then paste to here" -
 ### Demo
 <!-- Image 1 -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xiaosihuangsi/Split-View-Using-JavaFx/main/RunningResult_1.png?token=GHSAT0AAAAAACRFU4YG7AUD3IFTHNIVG6EKZRV2XRQ" alt="Image 1" width="600" />
+  <img src="https://raw.githubusercontent.com/xiaosihuangsi/Split-View-Using-JavaFx/main/RunningResult_1.png?token=GHSAT0AAAAAACRFU4YHLJGZPVSZ3T22N3SWZRV3BEQ" alt="Image 1" width="600" />
   <br />
   <em>Image 1</em>
 </p>
